@@ -17,8 +17,8 @@ State-by-state data is included in the data/ folder.
 
 
 ## Notebooks
-1. [Example data collection with Tabula - Georgia](https://github.com/jkbren/incarcerated-populations/blob/main/code/georgia.ipynb)
-2. [Create figures for paper](https://github.com/jkbren/incarcerated-populations/blob/main/code/figures.ipynb)
+1. [Example data collection with Tabula - Georgia](https://github.com/jkbren/incarcerated-populations-data/blob/main/code/georgia.ipynb)
+2. [Create figures for paper](https://github.com/jkbren/incarcerated-populations-data/blob/main/code/figures.ipynb)
 
 
 ## Other datasets
