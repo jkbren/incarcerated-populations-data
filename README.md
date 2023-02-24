@@ -66,7 +66,7 @@ Bibtex:
 * [Bureau of Justice Statistics - Prisoners in 2019](https://bjs.ojp.gov/library/publications/prisoners-2019)
 * [Bureau of Justice Statistics - Prisoners in 2020](https://bjs.ojp.gov/library/publications/prisoners-2020-statistical-tables)
 * [Bureau of Justice Statistics - Prisoners in 2021](https://bjs.ojp.gov/library/publications/prisoners-2021-statistical-tables)
-* [Institute on Policing, Incarceration, and Public Safety](https://www.vera.org/publications/a-technical-guide-to-jail-data-analysis)
+* [Institute on Policing, Incarceration, and Public Safety](https://hutchinscenter.fas.harvard.edu/policing-incarceration-and-public-safety)
 
 
 ## Data Collection Team 
