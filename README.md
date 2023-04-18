@@ -1,7 +1,7 @@
 # Dataset on Incarcerated Populations (2023)
 The United States has the highest incarceration rate in the world. Through combinations of structural biases in the criminal justice and police systems, we see even higher incarceration rates among Black and Hispanic people. During the first year of the COVID-19 pandemic, the number of incarcerated people in the United States decreased by at least 17%---the largest, fastest reduction in prison population in American history. Using an original dataset curated from public sources on prison demographics across all 50 states and the District of Columbia, we show that incarcerated white people benefited disproportionately from this decrease in the U.S. prison population, and the fraction of incarcerated Black and Latino people sharply increased. This pattern persists across prison systems in nearly every state and deviates from a decade-long trend before 2020 and the onset of COVID-19, when the proportion of incarcerated white people was increasing amid declining numbers of Black people in prison. While a variety of mechanisms underlie these alarming trends, we explore why racial inequities in average sentence length are a likely major contributor. Ultimately, this study reveals how disruptions caused by COVID-19 exacerbated racial inequalities in the criminal legal system, and highlights key forces that drive mass incarceration.
 
-See the full writeup and analyses here: https://www.medrxiv.org/content/10.1101/2021.12.14.21267199v2. Forthcoming, *Nature*.
+See the full writeup and analyses here: https://www.nature.com/articles/s41586-023-05980-2.
 
 This work is a collaboration between researchers at the **Institute on Policing, Incarceration, and Public Safety** at Harvard University, Yale University, the Santa Fe Institute, MIT, and Northeastern University.
 
@@ -56,7 +56,7 @@ Bibtex:
     author = {Klein, Brennan and Ogbunugafor, C. Brandon and Schafer, Benjamin and Bhadricha, Zarana and Kori, Preeti and Sheldon, Jim and Kaza, Nitish and Sharma, Arush and Wang, Emily A. and Eliassi-Rad, Tina and Scarpino, Samuel V. and Hinton, Elizabeth},
     journal = {Nature},
     year = {2023},
-    doi = {10.1101/2021.12.14.21267199v2}
+    doi = {10.1038/s41586-023-05980-2}
 }
 ```
 
